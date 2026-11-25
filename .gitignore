@@ -1,0 +1,22 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# EPG data and intermediate files
+data/
+*.vcf
+*.vcf.gz
+*.bed
+*.bim
+*.fam
+*.ped
+*.map
+*.raw
+*.log
+*.nosex
+*.exe
+
+# Rendered reports
+*_files/
+*.html
